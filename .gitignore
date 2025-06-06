@@ -1,1 +1,3 @@
 projetoa3theo/__pycache__/*
+/apps/core/__pycache__/*
+/apps/core/migrations/*
